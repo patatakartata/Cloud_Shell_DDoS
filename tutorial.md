@@ -5,7 +5,7 @@
 Ми запустили Google Cloud Shell в ***ефемерному режимі***. Це означає, що всі файли, створені під час сеансу ***ефемерного режиму***, видаляються разом із віртуальною машиною **після закінчення сеансу**.
 
 ## Давайте запустимо «Death by 1000 needles» db1000n. 
-Для цього натисніть <walkthrough-cloud-shell-icon>menu-terminal-new-terminal</walkthrough-conclusion-trophy>
+Для цього натисніть <walkthrough-cloud-shell-icon>menu-terminal-new-terminal</walkthrough-cloud-shell-icon>
 в наступному рядку та клавішу ENTER:
 
 ```bash
