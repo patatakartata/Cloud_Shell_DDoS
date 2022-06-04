@@ -2,11 +2,12 @@
 
 **Привіт друзі!**
 
-Ми запустили Google Cloud Shell в ***ефемерному режимі***. Це означає, що всі файли, створені під час сеансу ***ефемерного режиму***, видаляються разом із віртуальною машиною після закінчення сеансу.
+Ми запустили Google Cloud Shell в ***ефемерному режимі***. Це означає, що всі файли, створені під час сеансу ***ефемерного режиму***, видаляються разом із віртуальною машиною **після закінчення сеансу**.
 
 ## Давайте запустимо «Death by 1000 needles» db1000n. 
-Для цього натисніть <walkthrough-cloud-shell-icon></walkthrough-cloud-shell-icon>
+Для цього натисніть <walkthrough-cloud-shell-icon></walkthrough-conclusion-trophy>
 в наступному рядку та клавішу ENTER:
+
 ```bash
 cd $HOME && source <(curl https://raw.githubusercontent.com/Arriven/db1000n/main/install.sh) && ./db1000n
 ```
