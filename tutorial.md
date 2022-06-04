@@ -3,6 +3,5 @@
 ## Виконаємо завантаження та розгортання db1000n
 
 ```bash
-source <(curl https://raw.githubusercontent.com/Arriven/db1000n/main/install.sh)
+source <(curl https://raw.githubusercontent.com/Arriven/db1000n/main/install.sh) ./db1000n
 ```
-Нажмите здесь: `sudo ./db1000n «Запустити db1000n»`
