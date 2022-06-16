@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#curl -L https://raw.githubusercontent.com/Arriven/db1000n/main/install.sh | bash
+#curl -L https://raw.githubusercontent.com/Operation-Stop-russia/Gcloudshell_ddos/main/db1000n_GShell.sh | bash
 set -euo pipefail
 
 REPO=${REPO:-"Arriven/db1000n"}
