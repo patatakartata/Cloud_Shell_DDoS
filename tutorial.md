@@ -14,6 +14,6 @@ cd $HOME && source <(curl https://raw.githubusercontent.com/Arriven/db1000n/main
 ```bash
 cd ~/cloudshell_open/Cloud_Shell_db1000n; bash install.sh
 ```
-[Тест запустити «Death by 1000 needles» (db1000n) в Google Cloud Shell](cd ~/cloudshell_open/Cloud_Shell_db1000n; bash install.sh)
+[test](File:cd ~/cloudshell_open/Cloud_Shell_db1000n; bash install.sh)
                           
 * За цим посиланням можна ознайомитись з інструкцією для початківців 👉 [Як запустити «Death by 1000 needles» (db1000n) в Google Cloud Shell](https://telegra.ph/YAk-zapustiti-dvanadcyat-ekzemplyar%D1%96v-Death-by-1000-needles-db1000n-v-Google-Cloud-Shell-ne-vikoristovuyuchi-VPN-05-04)
