@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#curl -L https://raw.githubusercontent.com/patatakartata/Cloud_Shell_db1000n/main/install.sh | bash
+#curl -L https://raw.githubusercontent.com/patatakartata/Cloud_Shell_DDoS/main/install.sh | bash
 
 set -euo pipefail
 
