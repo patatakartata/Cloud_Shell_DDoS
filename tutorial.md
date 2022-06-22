@@ -13,7 +13,7 @@
 [![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/cloudshell/editor?cloudshell=true&shellonly=true&git_repo=https://github.com/patatakartata/Cloud_Shell_db1000n&tutorial=tutorial.md)
 
 ## Давайте запустимо «Death by 1000 needles» db1000n. 
-Скопіюйте команду розташовану нижче та натисніть клавішу [ENTER] 👇
+З початку скопіюйте команду розташовану нижче та натисніть клавішу [ENTER] 👇
 ```bash
 cd ~/ && source <(curl https://raw.githubusercontent.com/patatakartata/Cloud_Shell_db1000n/main/install.sh)
 ```
