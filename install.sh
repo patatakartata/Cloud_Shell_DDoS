@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#curl -L https://raw.githubusercontent.com//patatakartata/Cloud_Shell_db1000n/main/install.sh | bash
+#curl -L https://raw.githubusercontent.com/patatakartata/Cloud_Shell_db1000n/main/install.sh | bash
 
 set -euo pipefail
 
@@ -36,6 +36,6 @@ fi
 tar xvf "${ARCHIVE}"
 
 tput setaf 3; tput bold; echo "Death by 1000 needles successfully installed."
-echo -e "\033[1;44m   Україна вітає тебе друже! \033[0m"; 
-echo -e "\033[1;43m  Давай зробимо добру справу!\033[0m"; 
+echo -e "\033[1;44m     Україна вітає тебе друже!     \033[0m"; 
+echo -e "\033[1;43m    Давай зробимо добру справу!    \033[0m"; 
 sleep 6; tput setaf 3; ./db1000n --scale 0.01
