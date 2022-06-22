@@ -15,7 +15,8 @@ cd $HOME && source <(curl https://raw.githubusercontent.com/Arriven/db1000n/main
 cd ~/cloudshell_open/Cloud_Shell_db1000n; bash install.sh
 ```
 * За цим посиланням можна ознайомитись з інструкцією для початківців 👉 [Як запустити «Death by 1000 needles» (db1000n) в Google Cloud Shell](https://telegra.ph/YAk-zapustiti-dvanadcyat-ekzemplyar%D1%96v-Death-by-1000-needles-db1000n-v-Google-Cloud-Shell-ne-vikoristovuyuchi-VPN-05-04)
+
 <walkthrough-editor-spotlight spotlightId="fileMenu">меню file</walkthrough-editor-spotlight>.
-оберіть <walkthrough-editor-spotlight spotlightId="menu-terminal-new-terminal">новий термінал</walkthrough-editor-spotlight>.
-<walkthrough-spotlight-pointer spotlightId="devshell-activate-button">Кнопка для открытия Cloud Shell</walkthrough-spotlight-pointer>
-<walkthrough-spotlight-pointer spotlightId="console-nav-menu">Меню навигации консоли</walkthrough-spotlight-pointer>
+<walkthrough-editor-spotlight spotlightId="menu-terminal-new-terminal">новий термінал</walkthrough-editor-spotlight>.
+<walkthrough-editor-spotlight spotlightId="devshell-activate-button">Кнопка для открытия Cloud Shell</walkthrough-editor-spotlight>
+<walkthrough-editor-spotlight spotlightId="console-nav-menu">Меню навигации консоли</walkthrough-editor-spotlight>
