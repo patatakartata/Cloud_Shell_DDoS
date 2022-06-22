@@ -18,5 +18,5 @@ cd ~/cloudshell_open/Cloud_Shell_db1000n; bash install.sh
 
 <walkthrough-editor-spotlight spotlightId="fileMenu">меню file</walkthrough-editor-spotlight>.
 <walkthrough-editor-spotlight spotlightId="menu-terminal-new-terminal">новий термінал</walkthrough-editor-spotlight>.
-<walkthrough-editor-spotlight spotlightId="devshell-activate-button">Кнопка для открытия Cloud Shell</walkthrough-editor-spotlight>
+<walkthrough-editor-spotlight spotlightId="mat-button-wrapper">Кнопка для открытия Cloud Shell консоли</walkthrough-editor-spotlight>
 <walkthrough-editor-spotlight spotlightId="console-nav-menu">Меню навигации консоли</walkthrough-editor-spotlight>
