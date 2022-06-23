@@ -7,11 +7,11 @@
 
 Запуск **«Death by 1000 needles» (db1000n)** з інструкцією.
 
-[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/cloudshell/editor?cloudshell=true&shellonly=true&git_repo=https://github.com/patatakartata/Cloud_Shell_DDoS&tutorial=tutorial.md)
+[![Open in Cloud Shell](https://telegra.ph/file/22b02a59993bd344b2bc9.png)](https://console.cloud.google.com/cloudshell/editor?cloudshell=true&shellonly=true&git_repo=https://github.com/patatakartata/Cloud_Shell_DDoS&tutorial=tutorial.md)
 
 Запуск застосунка  **MHDDoS_proxy**  з інструкцією.
 
-[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/cloudshell/editor?cloudshell=true&shellonly=true&git_repo=https://github.com/patatakartata/Cloud_Shell_DDoS&tutorial=mhddos_proxy_tutorial.md)
+[![Open in Cloud Shell](https://telegra.ph/file/22b02a59993bd344b2bc9.png)](https://console.cloud.google.com/cloudshell/editor?cloudshell=true&shellonly=true&git_repo=https://github.com/patatakartata/Cloud_Shell_DDoS&tutorial=mhddos_proxy_tutorial.md)
 
 #### ***Також пропоную для ознайомлення:***
 
