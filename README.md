@@ -1,12 +1,15 @@
 # Вчимося працювати з Google Cloud Shell 💙💛
 
 ### Перейшовши за цими посиланнями ви маєте змогу *"запустити для тестування"* надані застосунки в Google Cloud Shell.
+*Не використовуйте ваш персональний аккаунт з яким ви працюєте.*
+
+Інструкція  [як створити новий обліковий запис Google](https://support.google.com/accounts/answer/27441?hl=uk)
 
 Запуск **«Death by 1000 needles» (db1000n)** з інструкцією.
 
 [![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/cloudshell/editor?cloudshell=true&shellonly=true&git_repo=https://github.com/patatakartata/Cloud_Shell_DDoS&tutorial=tutorial.md)
 
-Запуск **MHDDoS_proxy** з інструкцією.
+Запуск застосунка  **MHDDoS_proxy**  з інструкцією.
 
 [![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/cloudshell/editor?cloudshell=true&shellonly=true&git_repo=https://github.com/patatakartata/Cloud_Shell_DDoS&tutorial=mhddos_proxy_tutorial.md)
 
