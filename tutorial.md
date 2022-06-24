@@ -54,5 +54,6 @@ htop -F ./db
 <walkthrough-conclusion-trophy>
 </walkthrough-conclusion-trophy>
 Натиснувши кнопку FINISH довідка закриєця і ви перейдете до головного меню довідника Google Cloud Shell.   
-Кнопка PREVIOUS поверне вас на попередню сторінку.   
+Кнопка PREVIOUS поверне вас на попередню сторінку.
+
 <walkthrough-footnote>Звертайтесь patatakartata@gmail.com або @patatakartata</walkthrough-footnote>
