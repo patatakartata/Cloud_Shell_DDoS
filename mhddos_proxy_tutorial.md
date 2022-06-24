@@ -16,7 +16,7 @@
 
 [![Open in Cloud Shell](https://telegra.ph/file/22b02a59993bd344b2bc9.png)](https://shell.cloud.google.com/cloudshell/open?shellonly=true&git_repo=https://github.com/patatakartata/Cloud_Shell_DDoS&tutorial=mhddos_proxy_tutorial.md)
 
-Щоб розпочати натисніть кнопку **START**
+Щоб запустити *MHDDoS_proxy* натисніть кнопку **START**
 
  ## Давайте почнемо
 
