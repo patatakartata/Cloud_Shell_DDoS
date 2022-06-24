@@ -5,4 +5,4 @@ pip install colorama tabulate aiohttp &&
 echo -e "\033[1;44m     Україна вітає тебе друже!     \033[0m"; 
 echo -e "\033[1;43m    Давай зробимо добру справу!    \033[0m"; 
 tput setaf 6; tput bold; echo "Ініціюю  запуск  програми  MHDDoS_proxy";
-sleep 6; ./runner.sh python3 -t 300 --itarmy --vpn
+sleep 6; ./runner.sh python3 -t 400 --itarmy --vpn
