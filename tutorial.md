@@ -15,7 +15,7 @@
 
 [![Open in Cloud Shell](https://telegra.ph/file/22b02a59993bd344b2bc9.png)](https://shell.cloud.google.com/cloudshell/open?shellonly=true&tutorial=tutorial.md&git_repo=https://github.com/patatakartata/Cloud_Shell_DDoS&tutorial=tutorial.md)
 
-Щоб перейти до запуску **db1000n** натисніть **START**
+Щоб перейти до запуску **db1000n** натисніть кнопку **START**
 
  ## Давайте почнемо
 -  для запуска «Death by 1000 needles» (db1000n) скопіюйте команду розташовану нижче та натисніть клавішу **ENTER**
@@ -27,7 +27,7 @@ cd ~/ && source <(curl https://raw.githubusercontent.com/patatakartata/Cloud_She
 ```bash
 ./db1000n --scale 0.7
 ```
--   або наступну команду з ще більшою потужністю
+-   або наступну команду ще з більшою потужністю
 ```bash
 ./db1000n
 ```
