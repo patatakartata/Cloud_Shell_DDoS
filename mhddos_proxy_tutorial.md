@@ -33,7 +33,7 @@ cd ~/ && cd mhddos_proxy && ./runner.sh python3 -t 500 --itarmy --vpn
 cd ~/ && cd mhddos_proxy && ./runner.sh python3 -t 600 --itarmy --vpn
 ```
 ### Щоб переглянути навантаження на процесор використаємо команду **htop**
--   Додайте ще один термінал натиснувши "**+**" праворуч від заголовка працюючого терміналу, та виконайте наступну команду
+-   Додайте ще один термінал натиснувши <walkthrough-open-cloud-shell-button open-cloud-shell/> та виконайте наступну команду
 ```bash
 htop -F ./db
 ```
