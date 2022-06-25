@@ -11,7 +11,7 @@
 - це означає що все створене під час цього сеансу видалиться разом з віртуальною машиною  **після закінчення даного сеансу**
 
 ###  Зверніть увагу   
-- якщо з'єднання перервано  **завантажтесь знову,** натиснувши кнопку
+- якщо з'єднання перервано, бажано  **перезавантажитись** натиснувши кнопку
 
 [![Open in Cloud Shell](https://telegra.ph/file/22b02a59993bd344b2bc9.png)](https://shell.cloud.google.com/cloudshell/open?shellonly=true&tutorial=tutorial.md&git_repo=https://github.com/patatakartata/Cloud_Shell_DDoS&tutorial=tutorial.md)
 
