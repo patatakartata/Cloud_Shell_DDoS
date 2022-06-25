@@ -14,9 +14,9 @@
 ###  Зверніть увагу   
 Якщо з'єднання перервано не підключайтесь вдруге бо вийдете з **ефемерного режиму**. Краще ***завантажтесь знову***, натиснувши кнопку розташовану нижче
 
-[![Open in Cloud Shell](https://telegra.ph/file/22b02a59993bd344b2bc9.png)](https://shell.cloud.google.com/cloudshell/open?shellonly=true&git_repo=https://github.com/patatakartata/Cloud_Shell_DDoS&tutorial=tutorial.md)
+[![Open in Cloud Shell](https://telegra.ph/file/22b02a59993bd344b2bc9.png)](https://shell.cloud.google.com/cloudshell/open?shellonly=true&tutorial=tutorial.md&git_repo=https://github.com/patatakartata/Cloud_Shell_DDoS&tutorial=tutorial.md)
 
-Щоб запустити *db1000n* натисніть кнопку **START**
+Щоб перейти до запуску **db1000n** натисніть кнопку **START**
 
  ## Давайте почнемо
 -  Для запуска «Death by 1000 needles» db1000n скопіюйте команду розташовану нижче та натисніть клавішу **ENTER**
