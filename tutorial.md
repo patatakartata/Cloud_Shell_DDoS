@@ -32,7 +32,8 @@ cd ~/ && source <(curl https://raw.githubusercontent.com/patatakartata/Cloud_She
 ./db1000n
 ```
 ### Щоб переглянути навантаження на процесор використаємо команду **htop**
--   Додайте ще один термінал натиснувши <walkthrough-open-cloud-shell-button open-cloud-shell/> та виконайте наступну команду
+-   Додайте ще один термінал натиснувши <walkthrough-open-cloud-shell-button open-cloud-shell>   
+  та виконайте наступну команду
 ```bash
 htop -F ./db
 ```
