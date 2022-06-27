@@ -1,10 +1,7 @@
 #!/bin/bash
 
-fallocate -l 2G /swapfile
-chmod 600 /swapfile
-mkswap /swapfile
-swapon /swapfile
-#swapon --show
+fallocate -l 2G /swapfile && chmod 600 /swapfile && mkswap /swapfile && swapon /swapfile
+swapon --show
 apt-get update > /dev/null 2>&1
 apt-get install --upgrade git ethstats tcpdump wget -y > /dev/null 2>&1
 cd
