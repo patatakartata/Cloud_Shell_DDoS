@@ -1,8 +1,8 @@
-#!/usr/bin/env bash
-#curl -L https://raw.githubusercontent.com/patatakartata/Cloud_Shell_DDoS/main/Tor/Tor_install.sh | bash
+#!/bin/bash
+#source <(curl https://raw.githubusercontent.com/patatakartata/Cloud_Shell_DDoS/main/Tor/Tor_install.sh)
 
 sudo apt install -y tor tor-geoipdb proxychains torsocks geoip-bin
-sudo sh echo "ExcludeExitNodes {ua} StrictNodes 1" >> /etc/tor/torrc
-sudo sh echo "ExitNodes {ru},{by},{kz},{am},{kg},{tj},{az} StrictNodes 0" >> /etc/tor/torrc 
+sudo echo "ExcludeExitNodes {ua} StrictNodes 1" >> /etc/tor/torrc
+sudo echo "ExitNodes {ru},{by},{kz},{am},{kg},{tj},{az} StrictNodes 0" >> /etc/tor/torrc 
 sudo service tor start
 sudo service tor restart
