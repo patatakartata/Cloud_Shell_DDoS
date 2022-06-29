@@ -46,7 +46,7 @@ htop
 <walkthrough-open-cloud-shell-button open-cloud-shell></walkthrough-open-cloud-shell-button open-cloud-shell>
 - щоб встановити сервіс Tor виконайте наступну команду
 ```bash
-source <(curl https://raw.githubusercontent.com/patatakartata/Cloud_Shell_DDoS/main/Tor/Tor_install.sh)
+cd ~/; wget https://raw.githubusercontent.com/patatakartata/Cloud_Shell_DDoS/main/Tor/Tor_install.sh && sudo sh ./Tor_install.sh
 ```
 - запуск db1000n через Tor
 ```bash
